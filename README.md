@@ -1,5 +1,5 @@
 # PROJECT 2019
-Progetto del corso di Foundation of Computer Science (FoCS) dell'anno accademico 2019
+Progetto del corso di Foundation of Computer Science (FoCS) dell'anno accademico 2019/20
 
 Il progetto consiste in 12 esercizi svolti sul dataset kaggle reperibile a questo
 indirizzo: https://www.kaggle.com/gaborfodor/additional-kiva-snapshot. In particolare:
