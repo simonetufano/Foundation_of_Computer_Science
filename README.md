@@ -1,4 +1,4 @@
-# Foundation_of_Computer_Science
+# PROJECT 2019
 Progetto del corso di Foundation of Computer Science (FoCS) dell'anno accademico 2019
 
 Il progetto consiste in 12 esercizi svolti sul dataset kaggle reperibile a questo
